@@ -11,6 +11,8 @@ module.exports = {
         'blueGray': '#4b6a9b',
         'grayBlue': '#697c9a',
         'mainGray': '#2b3442',
+        'blueHover': '#60ABFF',
+        'darkHover' : '#222731', 
       },
     },
   },
